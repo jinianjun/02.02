@@ -1,0 +1,234 @@
+<Screen
+	CID = "1"
+	Width = "640"
+	Height = "558"
+	NextCID = "4"
+	RepresentativeRefID = "0"
+	HasCanvas = "1">
+	<Elements
+		CID = "1"
+		NextCID = "136">
+		<Element
+			CID = "38"
+			Type = "MenuBar"
+			X = "2"
+			Y = "54"
+			Width = "638"
+			Height = "22"
+			Flags = "2"
+			TopEdge = "Flat"
+			BottotmEdge = "Raised"
+			LeftEdge = "Flat"
+			RightEdge = "Flat"
+			NextItemID = "10"
+			LeftMargin = "0">
+			<MenuBarItem
+				Item = "终端管理"
+				ItemID = "1"/>
+			<MenuBarItem
+				Item = "测试计划管理"
+				ItemID = "8"/>
+			<MenuBarItem
+				Item = "终端监控"
+				ItemID = "3"/>
+			<MenuBarItem
+				Item = "分析评估"
+				ItemID = "5"/>
+			<MenuBarItem
+				Item = "基础数据"
+				ItemID = "9"/>
+			<MenuBarItem
+				Item = "系统管理"
+				ItemID = "7"/>
+		</Element>
+		<Element
+			CID = "39"
+			Type = "StaticText"
+			X = "60"
+			Y = "8"
+			Width = "315"
+			Height = "40"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "无线网信号自动采集分析系统"
+			FontAttributes = "1"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "VeryLarge"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "125"
+			Type = "StaticText"
+			X = "383"
+			Y = "24"
+			Width = "86"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "当前用户:senter"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "126"
+			Type = "ToolbarButtonDropDown"
+			X = "468"
+			Y = "24"
+			Width = "15"
+			Height = "22"
+			Flags = "3"
+			IsFlat = "1"/>
+		<Element
+			CID = "127"
+			Type = "TabPanel"
+			X = "466"
+			Y = "-133"
+			Width = "179"
+			Height = "71"
+			Flags = "0"
+			TabOrientation = "Top"
+			MarginLeft = "10"
+			MarginRight = "10"
+			MarginTop = "10"
+			MarginBottom = "10"/>
+		<Element
+			CID = "128"
+			Type = "StaticText"
+			X = "476"
+			Y = "-95"
+			Width = "114"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,255,0,0"
+			Text = "更换用户|密码修改"
+			FontAttributes = "4"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "129"
+			Type = "StaticText"
+			X = "476"
+			Y = "-116"
+			Width = "100"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "senter"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "130"
+			Type = "VerticalToolbarGripper"
+			X = "489"
+			Y = "23"
+			Width = "10"
+			Height = "26"
+			Flags = "3"/>
+		<Element
+			CID = "131"
+			Type = "VerticalToolbarGripper"
+			X = "528"
+			Y = "23"
+			Width = "10"
+			Height = "26"
+			Flags = "3"/>
+		<Element
+			CID = "132"
+			Type = "StaticText"
+			X = "538"
+			Y = "28"
+			Width = "29"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "换肤"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "133"
+			Type = "StaticText"
+			X = "577"
+			Y = "28"
+			Width = "29"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "退出"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "134"
+			Type = "VerticalToolbarGripper"
+			X = "567"
+			Y = "23"
+			Width = "10"
+			Height = "26"
+			Flags = "3"/>
+		<Element
+			CID = "135"
+			Type = "StaticText"
+			X = "499"
+			Y = "28"
+			Width = "29"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "帮助"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+	</Elements>
+	<Connections
+		CID = "2"
+		NextCID = "23">
+		<Connection
+			CID = "22"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitch"
+			SourceSubItemID = ""
+			SourceRefID = "126"
+			TargetRefID = "127"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+	</Connections>
+	<Notes
+		CID = "3"
+		NextCID = "2">
+		<Note
+			CID = "1"
+			Name = "Description">
+			
+		</Note>
+	</Notes>
+</Screen>

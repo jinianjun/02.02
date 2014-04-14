@@ -1,0 +1,3378 @@
+<Screen
+	CID = "1"
+	HasCanvas = "1"
+	Width = "640"
+	Height = "480"
+	NextCID = "4"
+	RepresentativeRefID = "0">
+	<Elements
+		CID = "1"
+		NextCID = "176">
+		<Element
+			CID = "77"
+			Type = "TabPanel"
+			X = "418"
+			Y = "516"
+			Width = "551"
+			Height = "375"
+			Flags = "0"
+			TabOrientation = "Top"
+			MarginLeft = "10"
+			MarginRight = "10"
+			MarginTop = "10"
+			MarginBottom = "10"/>
+		<Element
+			CID = "17"
+			Type = "TabPanel"
+			X = "146"
+			Y = "98"
+			Width = "488"
+			Height = "375"
+			Flags = "0"
+			TabOrientation = "Top"
+			MarginLeft = "10"
+			MarginRight = "10"
+			MarginTop = "10"
+			MarginBottom = "10"/>
+		<Element
+			CID = "4"
+			Type = "Table"
+			X = "801"
+			Y = "559"
+			Width = "150"
+			Height = "315"
+			Flags = "0"
+			BackgroundColour = "90,78,177,0,13"
+			GridLineColour = "174,168,217,0,23"
+			SortedBlendColour = "64,64,64,0,0"
+			DefOddBackgroundColour = "255,255,255,0,6"
+			DefEvenBackgroundColour = "255,255,255,0,6"
+			DefTextColour = "0,0,0,0,9"
+			NextColumnID = "4"
+			IsFlat = "0"
+			IsTransparent = "0"
+			HasBorder = "1"
+			HasHorzScrollBar = "1"
+			HasVertScrollBar = "1"
+			HasHorzLines = "1"
+			HasVertLines = "1"
+			HasExtHorzLines = "0"
+			HasExtVertLines = "0"
+			ExtendColumns = "1"
+			ExtendRows = "1"
+			VariableHeightRows = "1"
+			FullRowSelection = "1"
+			HeaderSpace = "0"
+			HeaderHeight = "22"
+			RowHeight = "18"
+			FirstVisibleRow = "0"
+			FixedColumns = "0"
+			SortedColumn = "0"
+			SortedBlendFactor = "0.000000"
+			ColumnSort = "Ascending"
+			HeaderStyle = "Standard"
+			FixedCellStyle = "SemiFlat">
+			<Columns>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "1"
+					Heading = "分局"
+					Width = "50"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "2"
+					Heading = "数量"
+					Width = "50"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "3"
+					Heading = "占比"
+					Width = "50"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+			</Columns>
+			<Data>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+			</Data>
+		</Element>
+		<Element
+			CID = "6"
+			Type = "TableHeading"
+			X = "801"
+			Y = "537"
+			Width = "150"
+			Height = "22"
+			Flags = "0"
+			BackgroundColour = "在线PDA数"
+			Margin = "0"
+			Style = "SemiFlat"
+			ColumnSort = "None"
+			HorzAlign = "Left"/>
+		<Element
+			CID = "8"
+			Type = "RectangleShape"
+			X = "165"
+			Y = "147"
+			Width = "454"
+			Height = "313"
+			Flags = "0"
+			TextColour = "0,0,0,0,0"
+			FillColour = "255,255,224,0,0"
+			BorderColour = "0,0,0,0,0"
+			Text = "地图"
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "13"
+			Type = "TextButton"
+			X = "556"
+			Y = "117"
+			Width = "59"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Text = "轨迹回放"
+			TextSize = "正常"
+			FontAttributes = "0"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+		<Element
+			CID = "16"
+			Type = "Tree"
+			X = "2"
+			Y = "77"
+			Width = "135"
+			Height = "400"
+			Flags = "0"
+			IsDisabled = "0"
+			HasBorder = "1"
+			HasButtons = "1"
+			HasLines = "1"
+			HasLinesAtRoot = "0"
+			HasHorzScrollBar = "0"
+			HasVertScrollBar = "1"
+			WordWrap = "0"
+			IconMargin = "0"
+			ItemHeight = "16"
+			Icons = "Folders">
+			<TreeItem
+				Text = "轨迹回放"
+				IsBold = "1"
+				IsChecked = "0"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				Text = "测试统计"
+				IsBold = "1"
+				IsChecked = "1"
+				IsExpanded = "1"
+				IsSelected = "0">
+				<TreeItem
+					Text = "在线终端统计"
+					IsBold = "1"
+					IsChecked = "1"
+					IsExpanded = "0"
+					IsSelected = "0"/>
+				<TreeItem
+					Text = "终端上报柱状图"
+					IsBold = "1"
+					IsChecked = "1"
+					IsExpanded = "0"
+					IsSelected = "0"/>
+				<TreeItem
+					Text = "终端上报统计"
+					IsBold = "1"
+					IsChecked = "1"
+					IsExpanded = "0"
+					IsSelected = "0"/>
+			</TreeItem>
+		</Element>
+		<Element
+			CID = "18"
+			Type = "HorizontalTab"
+			X = "147"
+			Y = "80"
+			Width = "75"
+			Height = "18"
+			Flags = "2"
+			TextColour = "0,0,0,0,19"
+			Text = "轨迹回放"
+			IsSelected = "0"
+			IsReversed = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "19"
+			Type = "HorizontalTab"
+			X = "1109"
+			Y = "86"
+			Width = "102"
+			Height = "18"
+			Flags = "2"
+			TextColour = "0,0,0,0,19"
+			Text = "终端上报柱状图"
+			IsSelected = "0"
+			IsReversed = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "20"
+			Type = "TabPanel"
+			X = "1109"
+			Y = "104"
+			Width = "540"
+			Height = "372"
+			Flags = "0"
+			TabOrientation = "Top"
+			MarginLeft = "10"
+			MarginRight = "10"
+			MarginTop = "10"
+			MarginBottom = "10"/>
+		<Element
+			CID = "21"
+			Type = "Table"
+			X = "1439"
+			Y = "142"
+			Width = "194"
+			Height = "122"
+			Flags = "0"
+			BackgroundColour = "90,78,177,0,13"
+			GridLineColour = "174,168,217,0,23"
+			SortedBlendColour = "64,64,64,0,0"
+			DefOddBackgroundColour = "255,255,255,0,6"
+			DefEvenBackgroundColour = "255,255,255,0,6"
+			DefTextColour = "0,0,0,0,9"
+			NextColumnID = "4"
+			IsFlat = "0"
+			IsTransparent = "0"
+			HasBorder = "1"
+			HasHorzScrollBar = "1"
+			HasVertScrollBar = "1"
+			HasHorzLines = "1"
+			HasVertLines = "1"
+			HasExtHorzLines = "0"
+			HasExtVertLines = "0"
+			ExtendColumns = "1"
+			ExtendRows = "1"
+			VariableHeightRows = "1"
+			FullRowSelection = "1"
+			HeaderSpace = "0"
+			HeaderHeight = "22"
+			RowHeight = "18"
+			FirstVisibleRow = "0"
+			FixedColumns = "0"
+			SortedColumn = "0"
+			SortedBlendFactor = "0.000000"
+			ColumnSort = "Ascending"
+			HeaderStyle = "Standard"
+			FixedCellStyle = "SemiFlat">
+			<Columns>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "1"
+					Heading = "排名"
+					Width = "80"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "2"
+					Heading = "姓名"
+					Width = "60"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "3"
+					Heading = "数量"
+					Width = "60"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+			</Columns>
+			<Data>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+			</Data>
+		</Element>
+		<Element
+			CID = "23"
+			Type = "TableHeading"
+			X = "1439"
+			Y = "120"
+			Width = "194"
+			Height = "22"
+			Flags = "0"
+			BackgroundColour = "前10"
+			Margin = "0"
+			Style = "SemiFlat"
+			ColumnSort = "None"
+			HorzAlign = "Left"/>
+		<Element
+			CID = "24"
+			Type = "TableHeading"
+			X = "1440"
+			Y = "271"
+			Width = "194"
+			Height = "22"
+			Flags = "0"
+			BackgroundColour = "后10"
+			Margin = "0"
+			Style = "SemiFlat"
+			ColumnSort = "None"
+			HorzAlign = "Left"/>
+		<Element
+			CID = "25"
+			Type = "Table"
+			X = "1440"
+			Y = "293"
+			Width = "194"
+			Height = "173"
+			Flags = "0"
+			BackgroundColour = "90,78,177,0,13"
+			GridLineColour = "174,168,217,0,23"
+			SortedBlendColour = "64,64,64,0,0"
+			DefOddBackgroundColour = "255,255,255,0,6"
+			DefEvenBackgroundColour = "255,255,255,0,6"
+			DefTextColour = "0,0,0,0,9"
+			NextColumnID = "4"
+			IsFlat = "0"
+			IsTransparent = "0"
+			HasBorder = "1"
+			HasHorzScrollBar = "1"
+			HasVertScrollBar = "1"
+			HasHorzLines = "1"
+			HasVertLines = "1"
+			HasExtHorzLines = "0"
+			HasExtVertLines = "0"
+			ExtendColumns = "1"
+			ExtendRows = "1"
+			VariableHeightRows = "1"
+			FullRowSelection = "1"
+			HeaderSpace = "0"
+			HeaderHeight = "22"
+			RowHeight = "18"
+			FirstVisibleRow = "0"
+			FixedColumns = "0"
+			SortedColumn = "0"
+			SortedBlendFactor = "0.000000"
+			ColumnSort = "Ascending"
+			HeaderStyle = "Standard"
+			FixedCellStyle = "SemiFlat">
+			<Columns>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "1"
+					Heading = "排名"
+					Width = "80"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "2"
+					Heading = "姓名"
+					Width = "60"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "3"
+					Heading = "数量"
+					Width = "60"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+			</Columns>
+			<Data>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+			</Data>
+		</Element>
+		<Element
+			CID = "27"
+			Type = "RectangleShape"
+			X = "1126"
+			Y = "149"
+			Width = "306"
+			Height = "317"
+			Flags = "0"
+			TextColour = "0,0,0,0,0"
+			FillColour = "255,255,224,0,0"
+			BorderColour = "0,0,0,0,0"
+			Text = "柱状图"
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "29"
+			Type = "MenuBar"
+			X = "1"
+			Y = "44"
+			Width = "640"
+			Height = "22"
+			Flags = "2"
+			TopEdge = "Flat"
+			BottotmEdge = "Raised"
+			LeftEdge = "Flat"
+			RightEdge = "Flat"
+			NextItemID = "10"
+			LeftMargin = "0">
+			<MenuBarItem
+				Item = "终端管理"
+				ItemID = "1"/>
+			<MenuBarItem
+				Item = "测试计划管理"
+				ItemID = "8"/>
+			<MenuBarItem
+				Item = "终端监控"
+				ItemID = "3"/>
+			<MenuBarItem
+				Item = "分析评估"
+				ItemID = "5"/>
+			<MenuBarItem
+				Item = "基础数据"
+				ItemID = "9"/>
+			<MenuBarItem
+				Item = "系统管理"
+				ItemID = "7"/>
+		</Element>
+		<Element
+			CID = "30"
+			Type = "StaticText"
+			X = "61"
+			Y = "-2"
+			Width = "315"
+			Height = "40"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "无线网信号自动采集分析系统"
+			FontAttributes = "1"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "VeryLarge"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "31"
+			Type = "StaticText"
+			X = "384"
+			Y = "14"
+			Width = "86"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "当前用户:senter"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "32"
+			Type = "ToolbarButtonDropDown"
+			X = "469"
+			Y = "14"
+			Width = "15"
+			Height = "22"
+			Flags = "3"
+			IsFlat = "1"/>
+		<Element
+			CID = "33"
+			Type = "VerticalToolbarGripper"
+			X = "490"
+			Y = "13"
+			Width = "10"
+			Height = "26"
+			Flags = "3"/>
+		<Element
+			CID = "34"
+			Type = "VerticalToolbarGripper"
+			X = "529"
+			Y = "13"
+			Width = "10"
+			Height = "26"
+			Flags = "3"/>
+		<Element
+			CID = "35"
+			Type = "StaticText"
+			X = "539"
+			Y = "18"
+			Width = "29"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "换肤"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "36"
+			Type = "StaticText"
+			X = "578"
+			Y = "18"
+			Width = "29"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "退出"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "37"
+			Type = "VerticalToolbarGripper"
+			X = "568"
+			Y = "13"
+			Width = "10"
+			Height = "26"
+			Flags = "3"/>
+		<Element
+			CID = "38"
+			Type = "StaticText"
+			X = "500"
+			Y = "18"
+			Width = "29"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "帮助"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "47"
+			Type = "TabPanel"
+			X = "672"
+			Y = "99"
+			Width = "249"
+			Height = "264"
+			Flags = "0"
+			TabOrientation = "Top"
+			MarginLeft = "10"
+			MarginRight = "10"
+			MarginTop = "10"
+			MarginBottom = "10"/>
+		<Element
+			CID = "48"
+			Type = "StaticText"
+			X = "694"
+			Y = "237"
+			Width = "35"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "人员:"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "49"
+			Type = "EditBox"
+			X = "787"
+			Y = "236"
+			Width = "108"
+			Height = "21"
+			Flags = "2"
+			Text = "文本框"
+			IsDisabled = "0"
+			IsReadOnly = "0"
+			HorzAlign = "Left"/>
+		<Element
+			CID = "50"
+			Type = "StaticText"
+			X = "694"
+			Y = "267"
+			Width = "34"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "日期:"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "51"
+			Type = "EditBox"
+			X = "788"
+			Y = "265"
+			Width = "108"
+			Height = "21"
+			Flags = "2"
+			Text = "年-月-日"
+			IsDisabled = "0"
+			IsReadOnly = "0"
+			HorzAlign = "Left"/>
+		<Element
+			CID = "52"
+			Type = "StaticText"
+			X = "694"
+			Y = "114"
+			Width = "41"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "数据源:"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "53"
+			Type = "ComboBox"
+			X = "787"
+			Y = "113"
+			Width = "108"
+			Height = "21"
+			Flags = "2"
+			Text = "终端"
+			IsDisabled = "0"
+			HorzAlign = "Left"/>
+		<Element
+			CID = "54"
+			Type = "StaticText"
+			X = "694"
+			Y = "297"
+			Width = "34"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "日期:"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "55"
+			Type = "EditBox"
+			X = "788"
+			Y = "295"
+			Width = "108"
+			Height = "21"
+			Flags = "2"
+			Text = "年-月-日"
+			IsDisabled = "0"
+			IsReadOnly = "0"
+			HorzAlign = "Left"/>
+		<Element
+			CID = "56"
+			Type = "StaticText"
+			X = "694"
+			Y = "144"
+			Width = "84"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "自动测试计划名"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "57"
+			Type = "EditBox"
+			X = "786"
+			Y = "143"
+			Width = "108"
+			Height = "21"
+			Flags = "2"
+			Text = "文本框"
+			IsDisabled = "0"
+			IsReadOnly = "0"
+			HorzAlign = "Left"/>
+		<Element
+			CID = "58"
+			Type = "StaticText"
+			X = "694"
+			Y = "175"
+			Width = "56"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "工单名"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "59"
+			Type = "EditBox"
+			X = "787"
+			Y = "174"
+			Width = "108"
+			Height = "21"
+			Flags = "2"
+			Text = "文本框"
+			IsDisabled = "0"
+			IsReadOnly = "0"
+			HorzAlign = "Left"/>
+		<Element
+			CID = "60"
+			Type = "StaticText"
+			X = "694"
+			Y = "206"
+			Width = "64"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "专项工程名"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "61"
+			Type = "EditBox"
+			X = "787"
+			Y = "205"
+			Width = "108"
+			Height = "21"
+			Flags = "2"
+			Text = "文本框"
+			IsDisabled = "0"
+			IsReadOnly = "0"
+			HorzAlign = "Left"/>
+		<Element
+			CID = "62"
+			Type = "TextButton"
+			X = "788"
+			Y = "323"
+			Width = "50"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Text = "搜索"
+			TextSize = "正常"
+			FontAttributes = "0"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+		<Element
+			CID = "63"
+			Type = "TextButton"
+			X = "849"
+			Y = "323"
+			Width = "50"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Text = "取消"
+			TextSize = "正常"
+			FontAttributes = "0"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+		<Element
+			CID = "64"
+			Type = "EllipseShape"
+			X = "1407"
+			Y = "121"
+			Width = "23"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,0"
+			FillColour = "255,255,224,0,0"
+			BorderColour = "0,0,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "65"
+			Type = "TabPanel"
+			X = "1307"
+			Y = "-110"
+			Width = "214"
+			Height = "191"
+			Flags = "0"
+			TabOrientation = "Top"
+			MarginLeft = "10"
+			MarginRight = "10"
+			MarginTop = "10"
+			MarginBottom = "10"/>
+		<Element
+			CID = "66"
+			Type = "Icon"
+			X = "1410"
+			Y = "125"
+			Width = "16"
+			Height = "16"
+			Flags = "3"
+			RootPath = "$Application"
+			Filename = "Icons\Toolbars\ViewZoomIn.ico"
+			IconIndex = "0"/>
+		<Element
+			CID = "67"
+			Type = "TextButton"
+			X = "1385"
+			Y = "48"
+			Width = "50"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Text = "搜索"
+			TextSize = "正常"
+			FontAttributes = "0"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+		<Element
+			CID = "68"
+			Type = "TextButton"
+			X = "1440"
+			Y = "48"
+			Width = "50"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Text = "取消"
+			TextSize = "正常"
+			FontAttributes = "0"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+		<Element
+			CID = "69"
+			Type = "StaticText"
+			X = "1324"
+			Y = "-92"
+			Width = "42"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "分局"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "70"
+			Type = "StaticText"
+			X = "1324"
+			Y = "-61"
+			Width = "46"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "支局"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "71"
+			Type = "StaticText"
+			X = "1324"
+			Y = "-26"
+			Width = "53"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "片区"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "72"
+			Type = "StaticText"
+			X = "1324"
+			Y = "6"
+			Width = "55"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "专项工程"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "73"
+			Type = "ComboBox"
+			X = "1379"
+			Y = "-91"
+			Width = "120"
+			Height = "21"
+			Flags = "2"
+			Text = "组合框"
+			IsDisabled = "0"
+			HorzAlign = "Left"/>
+		<Element
+			CID = "74"
+			Type = "ComboBox"
+			X = "1379"
+			Y = "-61"
+			Width = "120"
+			Height = "21"
+			Flags = "2"
+			Text = "组合框"
+			IsDisabled = "0"
+			HorzAlign = "Left"/>
+		<Element
+			CID = "75"
+			Type = "ComboBox"
+			X = "1379"
+			Y = "-27"
+			Width = "120"
+			Height = "21"
+			Flags = "2"
+			Text = "组合框"
+			IsDisabled = "0"
+			HorzAlign = "Left"/>
+		<Element
+			CID = "76"
+			Type = "ComboBox"
+			X = "1379"
+			Y = "6"
+			Width = "120"
+			Height = "21"
+			Flags = "2"
+			Text = "组合框"
+			IsDisabled = "0"
+			HorzAlign = "Left"/>
+		<Element
+			CID = "78"
+			Type = "HorizontalTab"
+			X = "418"
+			Y = "498"
+			Width = "75"
+			Height = "18"
+			Flags = "2"
+			TextColour = "0,0,0,0,19"
+			Text = "在线终端统计"
+			IsSelected = "0"
+			IsReversed = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "79"
+			Type = "RectangleShape"
+			X = "428"
+			Y = "555"
+			Width = "364"
+			Height = "321"
+			Flags = "0"
+			TextColour = "0,0,0,0,0"
+			FillColour = "255,255,224,0,0"
+			BorderColour = "0,0,0,0,0"
+			Text = "地图"
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "80"
+			Type = "TabPanel"
+			X = "-633"
+			Y = "111"
+			Width = "588"
+			Height = "375"
+			Flags = "0"
+			TabOrientation = "Top"
+			MarginLeft = "10"
+			MarginRight = "10"
+			MarginTop = "10"
+			MarginBottom = "10"/>
+		<Element
+			CID = "81"
+			Type = "HorizontalTab"
+			X = "-633"
+			Y = "93"
+			Width = "75"
+			Height = "18"
+			Flags = "2"
+			TextColour = "0,0,0,0,19"
+			Text = "终端上报统计"
+			IsSelected = "0"
+			IsReversed = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "82"
+			Type = "TabPanel"
+			X = "-257"
+			Y = "-198"
+			Width = "214"
+			Height = "273"
+			Flags = "0"
+			TabOrientation = "Top"
+			MarginLeft = "10"
+			MarginRight = "10"
+			MarginTop = "10"
+			MarginBottom = "10"/>
+		<Element
+			CID = "83"
+			Type = "TextButton"
+			X = "-183"
+			Y = "42"
+			Width = "50"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Text = "搜索"
+			TextSize = "正常"
+			FontAttributes = "0"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+		<Element
+			CID = "84"
+			Type = "TextButton"
+			X = "-128"
+			Y = "42"
+			Width = "50"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Text = "取消"
+			TextSize = "正常"
+			FontAttributes = "0"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+		<Element
+			CID = "85"
+			Type = "StaticText"
+			X = "-240"
+			Y = "-180"
+			Width = "42"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "分局"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "86"
+			Type = "StaticText"
+			X = "-240"
+			Y = "-149"
+			Width = "46"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "支局"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "87"
+			Type = "StaticText"
+			X = "-240"
+			Y = "-114"
+			Width = "53"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "片区"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "88"
+			Type = "StaticText"
+			X = "-240"
+			Y = "-82"
+			Width = "55"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "专项工程"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "89"
+			Type = "ComboBox"
+			X = "-182"
+			Y = "-179"
+			Width = "120"
+			Height = "21"
+			Flags = "2"
+			Text = "组合框"
+			IsDisabled = "0"
+			HorzAlign = "Left"/>
+		<Element
+			CID = "90"
+			Type = "ComboBox"
+			X = "-182"
+			Y = "-149"
+			Width = "120"
+			Height = "21"
+			Flags = "2"
+			Text = "组合框"
+			IsDisabled = "0"
+			HorzAlign = "Left"/>
+		<Element
+			CID = "91"
+			Type = "ComboBox"
+			X = "-182"
+			Y = "-115"
+			Width = "120"
+			Height = "21"
+			Flags = "2"
+			Text = "组合框"
+			IsDisabled = "0"
+			HorzAlign = "Left"/>
+		<Element
+			CID = "92"
+			Type = "ComboBox"
+			X = "-182"
+			Y = "-82"
+			Width = "120"
+			Height = "21"
+			Flags = "2"
+			Text = "组合框"
+			IsDisabled = "0"
+			HorzAlign = "Left"/>
+		<Element
+			CID = "93"
+			Type = "StaticText"
+			X = "-240"
+			Y = "-52"
+			Width = "53"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "测试人"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "94"
+			Type = "EditBox"
+			X = "-182"
+			Y = "-53"
+			Width = "120"
+			Height = "21"
+			Flags = "2"
+			Text = "文本框"
+			IsDisabled = "0"
+			IsReadOnly = "0"
+			HorzAlign = "Left"/>
+		<Element
+			CID = "95"
+			Type = "StaticText"
+			X = "-240"
+			Y = "-22"
+			Width = "34"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "日期:"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "96"
+			Type = "EditBox"
+			X = "-182"
+			Y = "-24"
+			Width = "120"
+			Height = "21"
+			Flags = "2"
+			Text = "年-月-日"
+			IsDisabled = "0"
+			IsReadOnly = "0"
+			HorzAlign = "Left"/>
+		<Element
+			CID = "97"
+			Type = "StaticText"
+			X = "-240"
+			Y = "8"
+			Width = "34"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "日期:"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "98"
+			Type = "EditBox"
+			X = "-182"
+			Y = "8"
+			Width = "120"
+			Height = "21"
+			Flags = "2"
+			Text = "年-月-日"
+			IsDisabled = "0"
+			IsReadOnly = "0"
+			HorzAlign = "Left"/>
+		<Element
+			CID = "99"
+			Type = "Table"
+			X = "-617"
+			Y = "151"
+			Width = "540"
+			Height = "318"
+			Flags = "0"
+			BackgroundColour = "90,78,177,0,13"
+			GridLineColour = "174,168,217,0,23"
+			SortedBlendColour = "64,64,64,0,0"
+			DefOddBackgroundColour = "255,255,255,0,6"
+			DefEvenBackgroundColour = "255,255,255,0,6"
+			DefTextColour = "0,0,0,0,9"
+			NextColumnID = "12"
+			IsFlat = "0"
+			IsTransparent = "0"
+			HasBorder = "1"
+			HasHorzScrollBar = "1"
+			HasVertScrollBar = "1"
+			HasHorzLines = "1"
+			HasVertLines = "1"
+			HasExtHorzLines = "0"
+			HasExtVertLines = "0"
+			ExtendColumns = "1"
+			ExtendRows = "1"
+			VariableHeightRows = "1"
+			FullRowSelection = "1"
+			HeaderSpace = "0"
+			HeaderHeight = "22"
+			RowHeight = "18"
+			FirstVisibleRow = "0"
+			FixedColumns = "0"
+			SortedColumn = "0"
+			SortedBlendFactor = "0.000000"
+			ColumnSort = "Ascending"
+			HeaderStyle = "Standard"
+			FixedCellStyle = "SemiFlat">
+			<Columns>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "7"
+					Heading = "测试人"
+					Width = "50"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "2"
+					Heading = "MEID"
+					Width = "40"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "3"
+					Heading = "完成率"
+					Width = "50"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "10"
+					Heading = "超时原因"
+					Width = "60"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "11"
+					Heading = "测试时间"
+					Width = "60"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "8"
+					Heading = "完成时间"
+					Width = "60"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "9"
+					Heading = "区域"
+					Width = "40"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "4"
+					Heading = "自动/工单名"
+					Width = "80"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "6"
+					Heading = "专项工程名"
+					Width = "80"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+			</Columns>
+			<Data>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+			</Data>
+		</Element>
+		<Element
+			CID = "100"
+			Type = "EllipseShape"
+			X = "-199"
+			Y = "128"
+			Width = "23"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,0"
+			FillColour = "255,255,224,0,0"
+			BorderColour = "0,0,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "101"
+			Type = "Icon"
+			X = "-196"
+			Y = "132"
+			Width = "16"
+			Height = "16"
+			Flags = "3"
+			RootPath = "$Application"
+			Filename = "Icons\Toolbars\ViewZoomIn.ico"
+			IconIndex = "0"/>
+		<Element
+			CID = "102"
+			Type = "StaticText"
+			X = "-477"
+			Y = "198"
+			Width = "100"
+			Height = "119"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "255,0,0,0,0"
+			Text = "超时原因：&#13;&#10;未开机&#13;&#10;未下载测试计划&#13;&#10;未进入经纬度范围&#13;&#10;未上传测试结果&#13;&#10;超时完成&#13;&#10;未知原因"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "103"
+			Type = "RectangleShape"
+			X = "147"
+			Y = "44"
+			Width = "60"
+			Height = "22"
+			Flags = "0"
+			TextColour = "0,0,0,0,0"
+			FillColour = "255,255,224,0,0"
+			BorderColour = "0,0,0,0,0"
+			Text = "终端监控"
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "104"
+			Type = "Toolbar"
+			X = "180"
+			Y = "416"
+			Width = "427"
+			Height = "30"
+			Flags = "2"
+			TopEdge = "Groove"
+			BottotmEdge = "Raised"
+			LeftEdge = "Flat"
+			RightEdge = "Flat"/>
+		<Element
+			CID = "105"
+			Type = "StaticText"
+			X = "182"
+			Y = "419"
+			Width = "50"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "全幅显示"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "106"
+			Type = "VerticalSlider"
+			X = "187"
+			Y = "167"
+			Width = "28"
+			Height = "134"
+			Flags = "1"
+			IsDisabled = "0"
+			HasTicks = "0"
+			HasSelRange = "1"
+			RangeMin = "0"
+			RangeMax = "10"
+			SelRangeMin = "3"
+			SelRangeMax = "7"
+			SliderPos = "5"
+			Pointer = "Both"/>
+		<Element
+			CID = "107"
+			Type = "StaticText"
+			X = "244"
+			Y = "420"
+			Width = "41"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "测距"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "108"
+			Type = "StaticText"
+			X = "436"
+			Y = "423"
+			Width = "53"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "拉框放大"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "109"
+			Type = "ToolbarButton"
+			X = "304"
+			Y = "420"
+			Width = "50"
+			Height = "22"
+			Flags = "3"
+			IsFlat = "1"
+			IsPressed = "0"/>
+		<Element
+			CID = "110"
+			Type = "ToolbarButton"
+			X = "366"
+			Y = "420"
+			Width = "50"
+			Height = "22"
+			Flags = "3"
+			IsFlat = "1"
+			IsPressed = "0"/>
+		<Element
+			CID = "111"
+			Type = "StaticText"
+			X = "208"
+			Y = "177"
+			Width = "100"
+			Height = "40"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "三级比例尺，道路--县界--省"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "112"
+			Type = "StaticText"
+			X = "369"
+			Y = "423"
+			Width = "29"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "平移"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "113"
+			Type = "StaticText"
+			X = "307"
+			Y = "421"
+			Width = "27"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "面积"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "114"
+			Type = "EditBoxMultiLine"
+			X = "388"
+			Y = "113"
+			Width = "96"
+			Height = "29"
+			Flags = "0"
+			IsDisabled = "0"
+			IsReadOnly = "0"
+			HasHorzScrollBar = "0"
+			HasVertScrollBar = "1"
+			WordWrap = "1"
+			HorzOffset = "0"
+			FirstVisibleLine = "1"
+			HorzAlign = "Left">
+			EcIo&#13;&#10;RxAGC&#13;&#10;TxAGC&#13;&#10;Fer&#13;&#10;SINR&#13;&#10;DRC&#13;&#10;FTPDownLoad
+		</Element>
+		<Element
+			CID = "115"
+			Type = "Toolbar"
+			X = "428"
+			Y = "810"
+			Width = "358"
+			Height = "30"
+			Flags = "2"
+			TopEdge = "Groove"
+			BottotmEdge = "Raised"
+			LeftEdge = "Flat"
+			RightEdge = "Flat"/>
+		<Element
+			CID = "116"
+			Type = "StaticText"
+			X = "430"
+			Y = "813"
+			Width = "50"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "全幅显示"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "117"
+			Type = "VerticalSlider"
+			X = "435"
+			Y = "561"
+			Width = "28"
+			Height = "134"
+			Flags = "1"
+			IsDisabled = "0"
+			HasTicks = "0"
+			HasSelRange = "1"
+			RangeMin = "0"
+			RangeMax = "10"
+			SelRangeMin = "3"
+			SelRangeMax = "7"
+			SliderPos = "5"
+			Pointer = "Both"/>
+		<Element
+			CID = "118"
+			Type = "StaticText"
+			X = "492"
+			Y = "814"
+			Width = "28"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "测距"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "119"
+			Type = "StaticText"
+			X = "633"
+			Y = "814"
+			Width = "53"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "拉框放大"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "120"
+			Type = "ToolbarButton"
+			X = "529"
+			Y = "813"
+			Width = "40"
+			Height = "22"
+			Flags = "3"
+			IsFlat = "1"
+			IsPressed = "0"/>
+		<Element
+			CID = "121"
+			Type = "ToolbarButton"
+			X = "583"
+			Y = "813"
+			Width = "40"
+			Height = "22"
+			Flags = "3"
+			IsFlat = "1"
+			IsPressed = "0"/>
+		<Element
+			CID = "122"
+			Type = "StaticText"
+			X = "456"
+			Y = "571"
+			Width = "100"
+			Height = "40"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "三级比例尺，道路--县界--省"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "123"
+			Type = "StaticText"
+			X = "586"
+			Y = "816"
+			Width = "29"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "平移"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "124"
+			Type = "StaticText"
+			X = "532"
+			Y = "814"
+			Width = "27"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "面积"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "125"
+			Type = "EllipseShape"
+			X = "261"
+			Y = "289"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "126"
+			Type = "EllipseShape"
+			X = "268"
+			Y = "281"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "127"
+			Type = "EllipseShape"
+			X = "278"
+			Y = "273"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "128"
+			Type = "EllipseShape"
+			X = "287"
+			Y = "266"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "129"
+			Type = "EllipseShape"
+			X = "297"
+			Y = "260"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "130"
+			Type = "EllipseShape"
+			X = "305"
+			Y = "254"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "255,104,32,0,0"
+			BorderColour = "255,104,32,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "131"
+			Type = "EllipseShape"
+			X = "318"
+			Y = "249"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "132"
+			Type = "EllipseShape"
+			X = "327"
+			Y = "245"
+			Width = "9"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "133"
+			Type = "EllipseShape"
+			X = "342"
+			Y = "242"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "134"
+			Type = "EllipseShape"
+			X = "356"
+			Y = "241"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "135"
+			Type = "EllipseShape"
+			X = "358"
+			Y = "248"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "136"
+			Type = "EllipseShape"
+			X = "361"
+			Y = "255"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "137"
+			Type = "EllipseShape"
+			X = "364"
+			Y = "262"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "138"
+			Type = "EllipseShape"
+			X = "366"
+			Y = "267"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "139"
+			Type = "EllipseShape"
+			X = "368"
+			Y = "274"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,0,255,0,0"
+			BorderColour = "0,0,255,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "140"
+			Type = "EllipseShape"
+			X = "373"
+			Y = "281"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "141"
+			Type = "EllipseShape"
+			X = "323"
+			Y = "255"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "142"
+			Type = "EllipseShape"
+			X = "325"
+			Y = "262"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "143"
+			Type = "EllipseShape"
+			X = "328"
+			Y = "269"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "144"
+			Type = "EllipseShape"
+			X = "331"
+			Y = "276"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "145"
+			Type = "EllipseShape"
+			X = "333"
+			Y = "281"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "146"
+			Type = "EllipseShape"
+			X = "335"
+			Y = "288"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "255,215,0,0,0"
+			BorderColour = "255,215,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "147"
+			Type = "EllipseShape"
+			X = "340"
+			Y = "295"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "148"
+			Type = "EllipseShape"
+			X = "369"
+			Y = "286"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "149"
+			Type = "EllipseShape"
+			X = "361"
+			Y = "291"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "150"
+			Type = "EllipseShape"
+			X = "355"
+			Y = "296"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "151"
+			Type = "EllipseShape"
+			X = "381"
+			Y = "276"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "152"
+			Type = "EllipseShape"
+			X = "389"
+			Y = "271"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "153"
+			Type = "EllipseShape"
+			X = "397"
+			Y = "264"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "154"
+			Type = "EllipseShape"
+			X = "405"
+			Y = "259"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "155"
+			Type = "EllipseShape"
+			X = "413"
+			Y = "253"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "156"
+			Type = "EllipseShape"
+			X = "422"
+			Y = "247"
+			Width = "8"
+			Height = "7"
+			Flags = "0"
+			TextColour = "0,147,0,0,0"
+			FillColour = "0,147,0,0,0"
+			BorderColour = "0,147,0,0,0"
+			Text = ""
+			FontAttributes = "0"
+			BorderWidth = "2"
+			Fill = "Solid"
+			Border = "Single"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"/>
+		<Element
+			CID = "157"
+			Type = "StaticText"
+			X = "907"
+			Y = "586"
+			Width = "28"
+			Height = "111"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "255,0,0,0,0"
+			Text = "当天有多少pda投入工作"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "158"
+			Type = "StaticText"
+			X = "537"
+			Y = "605"
+			Width = "127"
+			Height = "40"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "255,0,0,0,0"
+			Text = "区域/网格（边界图），在线PDA占比，具体分布(显示持有人)"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "159"
+			Type = "StaticText"
+			X = "177"
+			Y = "114"
+			Width = "53"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "中国电信"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "160"
+			Type = "ToolbarButtonDropDown"
+			X = "229"
+			Y = "113"
+			Width = "15"
+			Height = "22"
+			Flags = "3"
+			IsFlat = "1"/>
+		<Element
+			CID = "161"
+			Type = "StaticText"
+			X = "269"
+			Y = "114"
+			Width = "19"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "3G"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "162"
+			Type = "ToolbarButtonDropDown"
+			X = "287"
+			Y = "113"
+			Width = "15"
+			Height = "22"
+			Flags = "3"
+			IsFlat = "1"/>
+		<Element
+			CID = "163"
+			Type = "StaticText"
+			X = "310"
+			Y = "113"
+			Width = "43"
+			Height = "27"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "参数&#13;&#10;KPI指标"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "164"
+			Type = "ToolbarButtonDropDown"
+			X = "352"
+			Y = "113"
+			Width = "15"
+			Height = "22"
+			Flags = "3"
+			IsFlat = "1"/>
+		<Element
+			CID = "165"
+			Type = "TextButton"
+			X = "470"
+			Y = "532"
+			Width = "75"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Text = "区域展示"
+			TextSize = "正常"
+			FontAttributes = "0"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+		<Element
+			CID = "166"
+			Type = "TextButton"
+			X = "587"
+			Y = "532"
+			Width = "75"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Text = "网格展示"
+			TextSize = "正常"
+			FontAttributes = "0"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+		<Element
+			CID = "167"
+			Type = "TextButton"
+			X = "697"
+			Y = "532"
+			Width = "75"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Text = "详细分布"
+			TextSize = "正常"
+			FontAttributes = "0"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+		<Element
+			CID = "168"
+			Type = "ToolbarButton"
+			X = "499"
+			Y = "420"
+			Width = "50"
+			Height = "22"
+			Flags = "3"
+			IsFlat = "1"
+			IsPressed = "0"/>
+		<Element
+			CID = "169"
+			Type = "StaticText"
+			X = "502"
+			Y = "423"
+			Width = "53"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "擦除一切"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "170"
+			Type = "ToolbarButton"
+			X = "555"
+			Y = "422"
+			Width = "40"
+			Height = "22"
+			Flags = "3"
+			IsFlat = "1"
+			IsPressed = "0"/>
+		<Element
+			CID = "171"
+			Type = "StaticText"
+			X = "558"
+			Y = "423"
+			Width = "27"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "画线"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "172"
+			Type = "ToolbarButton"
+			X = "686"
+			Y = "814"
+			Width = "50"
+			Height = "22"
+			Flags = "3"
+			IsFlat = "1"
+			IsPressed = "0"/>
+		<Element
+			CID = "173"
+			Type = "StaticText"
+			X = "687"
+			Y = "815"
+			Width = "53"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "擦除一切"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "174"
+			Type = "ToolbarButton"
+			X = "744"
+			Y = "814"
+			Width = "40"
+			Height = "22"
+			Flags = "3"
+			IsFlat = "1"
+			IsPressed = "0"/>
+		<Element
+			CID = "175"
+			Type = "StaticText"
+			X = "744"
+			Y = "815"
+			Width = "27"
+			Height = "21"
+			Flags = "0"
+			FillColour = "174,168,217,0,16"
+			TextColour = "0,0,0,0,19"
+			Text = "画线"
+			FontAttributes = "0"
+			IsDisabled = "0"
+			Fill = "None"
+			TextSize = "正常"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+	</Elements>
+	<Connections
+		CID = "2"
+		NextCID = "4">
+		<Connection
+			CID = "1"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitch"
+			SourceSubItemID = ""
+			SourceRefID = "13"
+			TargetRefID = "47"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "2"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitch"
+			SourceSubItemID = ""
+			SourceRefID = "64"
+			TargetRefID = "65"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "3"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitch"
+			SourceSubItemID = ""
+			SourceRefID = "100"
+			TargetRefID = "82"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+	</Connections>
+	<Notes
+		CID = "3"
+		NextCID = "2">
+		<Note
+			CID = "1"
+			Name = "Description">
+			
+		</Note>
+	</Notes>
+</Screen>

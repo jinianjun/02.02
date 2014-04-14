@@ -1,0 +1,21 @@
+<Project
+	CID = "1"
+	Title = "uidesign"
+	NextCID = "3"
+	IconCategory = "Miscellaneous">
+	<Links
+		CID = "1">
+		<Link
+			RootPath = "$Application"
+			Filename = "Design Collection.gdp"
+			RelativePath = "Samples\Design Collection\"/>
+	</Links>
+	<OpenFiles
+		CID = "2"
+		LastActive = "1">
+		<File
+			RootPath = "$Container"
+			RelativePathname = "测试计划管理.gui"
+			ViewSettings = ""/>
+	</OpenFiles>
+</Project>
